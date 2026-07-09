@@ -15,7 +15,7 @@ text into organized, actionable output in seconds.
 - **Syllabus Task Summarizer**: paste a syllabus or assignment list, get a clean table of tasks and deadlines
 
 ## Screenshot
-*(add a screenshot here once you have one — see below)*
+*(add a screenshot later)*
 
 ## How to Run Locally
 
